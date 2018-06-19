@@ -1,1 +1,7 @@
 grider_react_redux_course/*/node_modules
+grider_react_redux_course/*/*/bundle.js
+grider_react_redux_course/*/*/npm-debug.log
+grider_react_redux_course/*/*/.DS_Store
+grider_webpack/*/node_modules
+grider_webpack/*/dist
+grider_webpack/*/build
